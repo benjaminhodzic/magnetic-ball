@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79cf51a27ae1c3043b745fa8f65318bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - krug_djelovanja: {instanceID: 0}
+  - klizac_prefab: {fileID: 1068037647838676190, guid: 6feb34eece5493b489d9dbe0441b799d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
